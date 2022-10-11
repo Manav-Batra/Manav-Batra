@@ -35,7 +35,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Languages & Tools I Know...**
 <p align="left">
-    <a href="https://pub.dev/" target="-blank"><img src="https://img.icons8.com/color/452/dart.png"/></a>
+    <a href="https://pub.dev/" target="-blank"><img src="https://img.icons8.com/color/452/dart.png" width="60" height=60"/></a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
 <a href="https://isocpp.org/" target="-blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
