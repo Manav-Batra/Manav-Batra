@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manav Batra</h1>
 <h3 align="center">Flutter Developer</h3>
-<p align="center"
+<p align="center">
 <a href="https://www.linkedin.com/in/manavbatra69/" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-flat-icon/linkedin-flat-icon-10.jpg" alt="Manav" height="40" width="40" /> &nbsp</a>
 <a href = "emailto: batram248@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="40" width="40" />&nbsp</a>
 </p>
